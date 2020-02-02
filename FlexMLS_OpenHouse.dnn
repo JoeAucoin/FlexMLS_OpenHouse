@@ -1,5 +1,5 @@
 ﻿<dotnetnuke type="Package" version="5.0">
-  <packages><package name="GIBS.FlexMLS_OpenHouse" type="Module" version="1.0.2">
+  <packages><package name="GIBS.FlexMLS_OpenHouse" type="Module" version="1.0.3">
   <friendlyName>GIBS - FlexMLS - OpenHouse</friendlyName>
   <description>GIBS - FlexMLS - OpenHouse</description>
   <iconFile />
